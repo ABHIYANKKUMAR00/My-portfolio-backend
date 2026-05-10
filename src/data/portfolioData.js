@@ -4,7 +4,7 @@
  */
 
 const developer = {
-  name: "Abhiyank Gujjar",
+  name: "Abhiyank Kumar",
   email: "abhiyankgujjar00@gmail.com",
   role: "Full-Stack & AI/ML Developer",
   summary:
